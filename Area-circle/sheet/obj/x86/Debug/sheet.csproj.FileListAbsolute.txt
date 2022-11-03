@@ -1,0 +1,5 @@
+d:\users\zkzk\documents\visual studio 2010\Projects\sheet\sheet\bin\Debug\sheet.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\sheet\sheet\bin\Debug\sheet.pdb
+d:\users\zkzk\documents\visual studio 2010\Projects\sheet\sheet\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\zkzk\documents\visual studio 2010\Projects\sheet\sheet\obj\x86\Debug\sheet.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\sheet\sheet\obj\x86\Debug\sheet.pdb

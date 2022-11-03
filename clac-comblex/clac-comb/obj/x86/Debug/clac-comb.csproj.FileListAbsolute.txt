@@ -1,0 +1,9 @@
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\clac_comb.Form1.resources
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\clac_comb.Properties.Resources.resources
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\bin\Debug\clac-comb.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\bin\Debug\clac-comb.pdb
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\clac-comb.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\clac-comb\clac-comb\obj\x86\Debug\clac-comb.pdb

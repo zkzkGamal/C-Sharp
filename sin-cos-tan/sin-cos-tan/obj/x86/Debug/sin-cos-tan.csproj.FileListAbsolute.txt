@@ -1,0 +1,9 @@
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\bin\Debug\sin-cos-tan.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\bin\Debug\sin-cos-tan.pdb
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\sin_cos_tan.Form1.resources
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\sin_cos_tan.Properties.Resources.resources
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\sin-cos-tan.exe
+d:\users\zkzk\documents\visual studio 2010\Projects\sin-cos-tan\sin-cos-tan\obj\x86\Debug\sin-cos-tan.pdb
